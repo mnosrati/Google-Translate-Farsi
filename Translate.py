@@ -1,7 +1,5 @@
 from selenium import webdriver
-import numpy
-import string
-import time
+
 
 class Translate:
     options = webdriver.ChromeOptions()
