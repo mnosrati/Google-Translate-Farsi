@@ -29,7 +29,7 @@ print (t.English_EXM)
 print (t.Example)
 print (t.Synonym)
 
-translation.close()
+t.close()
 ```
 
 The output will be like this:
