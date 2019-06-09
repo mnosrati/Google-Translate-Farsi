@@ -6,7 +6,7 @@ This piece of code has 3 parts:
 
 The file Translate.py is the main class of the program, that uses Selenium to connect to the Google Translate and fetch the meaning of the words.
 So, in order to use this script, you must install Selenium on your system using the following command:
-python -m pip install selenium   or   pip install selenium
+```python -m pip install selenium```   or   ```pip install selenium```
 
 Also, if you are using a different version of Google Chrome (I used ver 75.0.3770.80), you can download the compatible driver file from  the following link and replace the driver file in the "driver" folder with your version:
 
