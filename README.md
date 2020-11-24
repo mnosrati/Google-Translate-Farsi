@@ -47,4 +47,3 @@ quadratic equation
 
 Enjoy ;)
 
-
