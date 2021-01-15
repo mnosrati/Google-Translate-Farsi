@@ -4,7 +4,7 @@ This piece of code has 3 parts:
 - test.py
 - driver (folder) containing the Google Chrome driver ver 75.0.3770.80
 
-The file Translate.py is the main class of the program, that uses Selenium to connect to the Google Translate and fetch the meaning of the words.
+The file <b>Translate.py</b> is the main class of the program, that uses Selenium to connect to the Google Translate and fetch the meaning of the words.
 So, in order to use this script, you must install Selenium on your system using the following command:
 ```python -m pip install selenium```   or   ```pip install selenium```
 
