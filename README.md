@@ -8,7 +8,7 @@ The file <b>Translate.py</b> is the main class of the program, that uses Seleniu
 So, in order to use this script, you must install Selenium on your system using the following command:
 ```python -m pip install selenium```   or   ```pip install selenium```
 
-Also, if you are using a different version of Google Chrome (I used ver 75.0.3770.80), you can download the compatible driver file from  the following link and replace the driver file in the "driver" folder with your version. Please note that the driver must be the same version of your installed Chrome:
+Also, if you are using a different version of Google Chrome (I used ver 75.0.3770.80), you can download the compatible driver file from  the following link and replace the driver file in the "driver" folder with your version. Please note that the chromedriver must be the same version of your installed Chrome:
 
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
