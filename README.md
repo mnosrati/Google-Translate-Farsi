@@ -12,6 +12,7 @@ Also, if you are using a different version of Google Chrome (I used ver 75.0.377
 
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
+
 # How to use?
 Simple run the test.py. Here is the example:
 
